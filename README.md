@@ -1,1 +1,1 @@
-# Document Analysis Assessment (COMP6490)
+# Document Analysis Assignment (COMP6490)
